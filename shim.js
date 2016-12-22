@@ -138,4 +138,7 @@ require('core-js/modules/es6.reflect.set-prototype-of');
 require('core-js/modules/es7.array.includes');
 require('core-js/modules/es7.object.values');
 require('core-js/modules/es7.object.entries');
+
+require('./custom-event-polyfill.js');
+
 module.exports = require('core-js/modules/_core');
