@@ -1,6 +1,6 @@
 {
   "name": "tv-polyfill",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "custom es6 polyfill for tv",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "core-js": "^2.4.1"
+    "core-js": "2.4.1"
   }
 }
